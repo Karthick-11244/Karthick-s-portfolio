@@ -7,17 +7,17 @@ export default function Project() {
             {
                 image: websiteImg1,
                 description: 'A portfolio Website built with React.js and TailwindCSS',
-                link: ''
+                link: 'karthick-s-portfolio.netlify.app'
             },
             {
                 image: websiteImg2,
                 description: 'E-commerce Website built with React.js and Redux',
-                link: 'https://github.com/Karthick-11244/Mart-app-React-Js'
+                link: 'mart-shopping.netlify.app'
             },
             {
                 image: websiteImg3,
                 description: 'Weather API website Built with vannila JavaScript and CSS',
-                link: 'https://github.com/Karthick-11244/Weather_App'
+                link: 'my-weather-app-in.netlify.app'
             }
         ]
     }

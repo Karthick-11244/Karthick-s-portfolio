@@ -2,7 +2,7 @@
 export default function Contact(){
     const config = {
         email:'mskarthick8769@gmail.com',
-        phone: 91+ 6382168769 
+        phone: 91+ 6382168769
     }
     return(
         <> <section  id="contact"className='flex  flex-col  bg-primary px-5 py-[32px] text-white '>
